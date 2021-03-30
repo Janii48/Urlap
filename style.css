@@ -1,0 +1,93 @@
+fieldset {
+    border: 1px 0px 0px 0px;
+    border-color: gray none none none;
+    border-style: dotted none none none;
+    padding-top: 20px;
+}
+div {
+    margin: auto;
+    width: 580px;
+}
+
+#ntele {
+    float: right;
+    height: 25px;
+    border: 1px solid red;
+    margin-top: 5px;
+}
+
+#azon{
+    margin-left: 10px;
+    height: 29px;
+    width: 90px;
+    border-color: lightgray;
+}
+
+#name {
+    width: 260px;
+    height: 25px;
+    border: 1px solid red;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+#tel1{
+    float: right;
+    margin-right: 176px;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#isz {
+    height: 25px;
+    margin-bottom: 10px;
+    border: 1px solid lightgray;
+    margin-top: 5px;
+}
+
+#varos {
+    height: 30px;
+    width: 355px;
+    margin-left: 15px;
+    border: 1px solid lightgray;
+}
+
+#vsz {
+    float: right;
+    margin-right: 305px;
+}
+
+b {
+    color: red;
+}
+
+#orszag {
+    border: 1px solid lightgray;
+    height: 29px;
+    width: 175px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#cim {
+    width: 350px;
+    margin-left: 15px;
+    height: 25px;
+    border: 1px solid lightgray;
+}
+
+#cimsz {
+    float: right;
+    margin-right: 322px;
+}
+
+#mentes {
+    width: 550px;
+    border-radius: 0px;
+    border: 1px solid green;
+    background-color: #76B241;
+    height: 30px;
+    color: white;
+}
